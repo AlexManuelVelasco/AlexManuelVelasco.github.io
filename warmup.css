@@ -1,0 +1,19 @@
+
+#intro {
+	text-align: center;
+}
+
+#details {
+	color: black;
+}
+
+h1{
+	color:gray;
+}
+
+h1,p {
+	color:orange;
+}
+.paragraphs{
+	color:gray;
+}

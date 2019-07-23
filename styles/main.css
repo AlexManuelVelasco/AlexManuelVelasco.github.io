@@ -1,0 +1,45 @@
+/* styles/main.css */
+
+body {
+	background: rgb(115,135,158);
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1 {
+	color: White;
+}
+
+ol {
+	font-weight: bold;
+color: White;
+}
+
+a{
+	text-decoration: underline;
+}
+
+h3 {
+	color: white;
+}
+a {
+	color: white
+}
+#my_bar{
+	border: solid;
+	border-color: white;
+	border-radius: 15px;
+	border-width: 3px;
+	border-color: white;
+	align-content: center;
+	}
+	#my_bar {
+		text-align: center;
+	}
+
+	.margin_borders {
+		border-style: solid;
+		border-color: black.;
+		margin-top: 20px;
+		margin-left: 100px;
+		margin-right: 100px;
+	}
